@@ -9,3 +9,4 @@ Dense Network implementation with activations and dropout, using the following t
 - tf.Module
 - tf math operations including the sigmoid and relu
 - tf.GradientTape
+Note: In the call method of network class updates are done with reversed loop just because of intuition
